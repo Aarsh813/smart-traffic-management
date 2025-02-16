@@ -7,12 +7,12 @@
 
 //======================================FIREBASE CREDENTIALS===========================================          
  
-#define DATABASE_URL "nodemcu-3fec1-default-rtdb.firebaseio.com"      
-#define API_KEY "fm2Gh4EF7h2fEhR6HiLQ2EwBZWeRo7mYSnlwoKyq"            
-#define WIFI_SSID "OnePlus 5g"                                  
-#define WIFI_PASSWORD "123456789"   
-#define AP_SSID "server1"
-#define AP_PASSWORD "qwertyuiop"
+#define DATABASE_URL "<firebase_uri>"      
+#define API_KEY "<firebase_api_key>"            
+#define WIFI_SSID "<WIFI_NAME>"                                  
+#define WIFI_PASSWORD "<WIFI_PASS>"   
+#define AP_SSID "<MCU_WIFI_NAME>"
+#define AP_PASSWORD "<MCU_WIFI_PASS>"
 //======================================Defining Firebase objects==================================
 FirebaseData fbdo;
 FirebaseAuth auth;
