@@ -10,9 +10,9 @@ String type = "Camera";
 //==================================================================================================================
 String data;
 //============================================WIFI CREDENTIALS OF HUB================================================
-const char* ssid = "server1";
-const char* password = "qwertyuiop";
-String host = "http://192.168.4.1/feed?";
+const char* ssid = "<MCU_WIFI_ID>";
+const char* password = "<MCU_WIFI_PASS>";
+String host = "http://<ip of the mcu server>/feed?";
 //============================================defining the object====================================================
 WiFiClient client;
 HTTPClient http;
