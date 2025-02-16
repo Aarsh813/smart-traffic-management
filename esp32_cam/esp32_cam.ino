@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include <esp32cam.h>
  
-const char* WIFI_SSID = "realme 6";
-const char* WIFI_PASS = "12345678";
+const char* WIFI_SSID = "<WIFI_NAME>";
+const char* WIFI_PASS = "<WIFI_PASSWORD>";
  
 WebServer server(80);
  
