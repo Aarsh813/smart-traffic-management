@@ -79,4 +79,4 @@ This project is open-source under the MIT License.
 We welcome contributions! Feel free to fork, raise issues, or submit pull requests.
 
 ## 📧 Contact
-For queries, contact [Your Name](mailto:your-email@example.com).
+For queries, contact [Aarsh](mailto:aarshsonani@gmail.com).
